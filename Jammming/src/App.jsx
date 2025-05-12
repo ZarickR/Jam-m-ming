@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      {
+    //  <a href="https://www.flaticon.com/free-icons/playlist" title="playlist icons">Playlist icons created by Freepik - Flaticon</a>  -- Remember to send this to the footer.
+      }
     </>
   )
 }
